@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/com_facebook_favicon_blue.xml",
+        "source": "/Users/joanrincon/.android/build-cache/9ab8a0a7f5de6518f473c2c5ee857c1cc11f54bc/output/res/drawable/com_facebook_favicon_blue.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/messenger_button_blue_bg_selector.xml",
+        "source": "/Users/joanrincon/.android/build-cache/c79ef033602a36d91c20b51442aef2955c2b2f93/output/res/drawable/messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/com_facebook_auth_dialog_cancel_background.xml",
+        "source": "/Users/joanrincon/.android/build-cache/9ab8a0a7f5de6518f473c2c5ee857c1cc11f54bc/output/res/drawable/com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/tooltip_frame_light.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_background.xml",
+        "source": "/Users/joanrincon/.android/build-cache/9ab8a0a7f5de6518f473c2c5ee857c1cc11f54bc/output/res/drawable/com_facebook_button_background.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/messenger_button_white_bg_round.xml",
+        "source": "/Users/joanrincon/.android/build-cache/c79ef033602a36d91c20b51442aef2955c2b2f93/output/res/drawable/messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/messenger_button_blue_bg_round.xml",
+        "source": "/Users/joanrincon/.android/build-cache/c79ef033602a36d91c20b51442aef2955c2b2f93/output/res/drawable/messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/joanrincon/.android/build-cache/3fa197d2e08422ac09e4eb73ace83d1343ba7008/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/com_facebook_auth_dialog_background.xml",
+        "source": "/Users/joanrincon/.android/build-cache/9ab8a0a7f5de6518f473c2c5ee857c1cc11f54bc/output/res/drawable/com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/tooltip_frame_dark.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/messenger_button_white_bg_selector.xml",
+        "source": "/Users/joanrincon/.android/build-cache/c79ef033602a36d91c20b51442aef2955c2b2f93/output/res/drawable/messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/joanrincon/.android/build-cache/3fa197d2e08422ac09e4eb73ace83d1343ba7008/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_login_logo.xml",
+        "source": "/Users/joanrincon/.android/build-cache/918be5da9067be3d2e58109b5f952697eadc7bee/output/res/drawable/com_facebook_button_login_logo.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_like_background.xml",
+        "source": "/Users/joanrincon/.android/build-cache/9ab8a0a7f5de6518f473c2c5ee857c1cc11f54bc/output/res/drawable/com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/com_facebook_send_button_icon.xml",
+        "source": "/Users/joanrincon/.android/build-cache/f8a957da32a2660b2fcf105315873e75b30e530e/output/res/drawable/com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_login_silver_background.xml",
+        "source": "/Users/joanrincon/.android/build-cache/918be5da9067be3d2e58109b5f952697eadc7bee/output/res/drawable/com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/joanrincon/.android/build-cache/3fa197d2e08422ac09e4eb73ace83d1343ba7008/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/joanrincon/.android/build-cache/3fa197d2e08422ac09e4eb73ace83d1343ba7008/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/com_facebook_auth_dialog_header_background.xml",
+        "source": "/Users/joanrincon/.android/build-cache/9ab8a0a7f5de6518f473c2c5ee857c1cc11f54bc/output/res/drawable/com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_icon.xml",
+        "source": "/Users/joanrincon/.android/build-cache/9ab8a0a7f5de6518f473c2c5ee857c1cc11f54bc/output/res/drawable/com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_send_background.xml",
+        "source": "/Users/joanrincon/.android/build-cache/f8a957da32a2660b2fcf105315873e75b30e530e/output/res/drawable/com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_login_background.xml",
+        "source": "/Users/joanrincon/.android/build-cache/918be5da9067be3d2e58109b5f952697eadc7bee/output/res/drawable/com_facebook_button_login_background.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable/abc_ic_ab_back_material.xml"
+    }
+]

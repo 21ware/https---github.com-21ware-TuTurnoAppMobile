@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/joanrincon/.android/build-cache/3fa197d2e08422ac09e4eb73ace83d1343ba7008/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/joanrincon/.android/build-cache/3fa197d2e08422ac09e4eb73ace83d1343ba7008/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/joanrincon/.android/build-cache/3fa197d2e08422ac09e4eb73ace83d1343ba7008/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/joanrincon/.android/build-cache/3fa197d2e08422ac09e4eb73ace83d1343ba7008/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

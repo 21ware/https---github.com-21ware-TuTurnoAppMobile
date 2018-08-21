@@ -1,0 +1,7 @@
+#Sat Aug 18 10:15:48 COT 2018
+base.0=/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fe1c3bb8cd3e79ee24380b3bfa69b35851c95b44
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5aa31f37b3804c22555e99b1a6cc4b763e21b521/classes.dex
+base.1=/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5aa31f37b3804c22555e99b1a6cc4b763e21b521
+file.0=/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fe1c3bb8cd3e79ee24380b3bfa69b35851c95b44/classes.dex

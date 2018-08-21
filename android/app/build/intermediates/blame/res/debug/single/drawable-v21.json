@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/joanrincon/.android/build-cache/3fa197d2e08422ac09e4eb73ace83d1343ba7008/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/joanrincon/Documents/mobile/TuTurnoApp/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/joanrincon/.android/build-cache/1d82e6d33aa491399e480ab445858ede1548d9d8/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]
